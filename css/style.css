@@ -8,10 +8,18 @@ a.breadcrumb::before {
 }
 
 body {
-  background: url('/images/bg_page.jpg') no-repeat center center fixed;
+  background: url('/images/bg_page_3.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
 main {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+footer.page-footer {
+  background-color: rgba(0, 0, 0, 0.55);
+}
+
+.shadow-text {
+  text-shadow: #000000 0 2px 8px;
 }
