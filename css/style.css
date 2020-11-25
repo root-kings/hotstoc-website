@@ -8,7 +8,7 @@ a.breadcrumb::before {
 }
 
 body {
-  background: url('/images/bg_page_3.jpg') no-repeat center center fixed;
+  background: url('../images/bg_page_3.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 
