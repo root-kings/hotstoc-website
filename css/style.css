@@ -1,8 +1,17 @@
 .btn-bordered {
-	box-sizing: content-box;
-	border: 1px solid #aaaaaa90;
+  box-sizing: content-box;
+  border: 1px solid #aaaaaa90;
 }
 
 a.breadcrumb::before {
-	color: currentColor;
+  color: currentColor;
+}
+
+body {
+  background: url('/images/bg_page.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.1);
 }
